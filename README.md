@@ -1,7 +1,5 @@
 # fraud-detection-system-xgboost
 
-# Fraud Detection System using XGBoost
-
 ## Project Overview
 
 This project develops a machine learning-based fraud detection system to identify fraudulent financial transactions. The solution uses the IEEE-CIS Fraud Detection dataset and applies advanced machine learning techniques to address class imbalance and improve fraud detection performance.
